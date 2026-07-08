@@ -46,13 +46,9 @@ Extensive synthesis exploration was conducted using Yosys to identify the optima
 
 ## Repository Structure
 ├── src/                    # Verilog RTL source files (Butterfly, Multiplier, FSM, etc.)
-
 ├── openlane_runs/          # PnR configuration scripts and physical design summaries
-
 ├── docs/                   # PDF Report, FSM diagrams, and schematic visualizations
-
 ├── images/                 # Heatmaps (IR Drop, Routing Congestion) and GDSII layouts
-
 └── README.md               # Project documentation
 
 ## Future Scope
